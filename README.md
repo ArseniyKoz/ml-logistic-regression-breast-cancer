@@ -18,7 +18,7 @@ Pet-проект по бинарной классификации с ROC/PR-ан
 
 ## Как запустить
 
-`ash
+```bash
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
@@ -41,4 +41,5 @@ jupyter notebook practice_4.ipynb
 ## Автор
 
 Арсений Козлов - [github.com/ArseniyKoz](https://github.com/ArseniyKoz)
+
 
